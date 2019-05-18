@@ -11,4 +11,4 @@ To identify each KeyCode we can use http://keycode.info/ and shows:
 - event.which
 - event.code
 
-For example the KeyCode for **d** is **68**
+For example the KeyCode for **d** is **68**. And later this key correspond with a sound file associated.
