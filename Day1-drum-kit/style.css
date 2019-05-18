@@ -1,0 +1,43 @@
+html {
+  background: url('src/images/nicholas-green-324622-unsplash.jpg');
+  background-size: cover;
+  background-repeat: no-repeat
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Courier New', Courier, monospace
+}
+
+.keys {
+  display: flex;
+  flex: 1;
+  min-height: 100vh;
+  align-items: center;
+  justify-content: center;
+}
+
+.key {
+  border: 4px solid black;
+  border-radius: 5px;
+  margin: 1rem;
+  font-size: 1.5rem;
+  padding: 1rem .5rem;
+  width: 100px;
+  text-align: center;
+  color: white;
+  background: rgba(0, 0, 0, .5);
+  text-shadow: 0 0 5px black;
+}
+
+kbd {
+  display: block;
+  font-size: 40px
+}
+
+.sound {
+  font-size: 1.2rem;
+  letter-spacing: .1rem;
+  color: #ffc600
+}
