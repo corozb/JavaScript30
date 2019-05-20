@@ -15,6 +15,7 @@ To identify each KeyCode we can use http://keycode.info/ and shows:
 For example the KeyCode for **d** is **68**. And later this key correspond with a sound file associated.
 
 This it´s how look the web finally:
+[url=https://ibb.co/4mg0dcT][img]https://i.ibb.co/vwvMYbP/drum-kit-corozb.png[/img][/url]
 
 You can practice the following rhythm. Just type the letters in your keyboard, try to keep the tempo. <br/> 
  ```
