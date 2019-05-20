@@ -1,4 +1,4 @@
-[!https://javascript30.com/](https://javascript30.com/)
+![https://javascript30.com/]()
 # JavaScript30
 
 In this repository I built **30 things** in **30 days** with **30 tutorials**. This help me to learn and improve my skills in Javascript.
