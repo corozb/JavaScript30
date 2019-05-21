@@ -25,7 +25,7 @@ D|...|A|.....|D|A|
 
 **Also you can learn a lot in the web: https://learningmusic.ableton.com/make-beats/make-beats.html**
 
-## Day 2 - CSS + JS Clock
+## [Day 2 - CSS + JS Clock](https://github.com/corozb/JavaScript30/tree/master/Day2-CSS%2BJS-Clock)
 This it's a minimalist clock built with CSS. Shows the current hour and the second hand working in real time in a realistic way.
 
 The final result is: <br />
