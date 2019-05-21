@@ -14,7 +14,7 @@ To identify each KeyCode we can use http://keycode.info/ and shows:
 
 For example the KeyCode for **d** is **68**. And later this key correspond with a sound file associated.
 
-This it´s how look the web finally:
+This it´s how look the web finally:<br />
 ![](https://i.ibb.co/vwvMYbP/drum-kit-corozb.png)
 
 You can practice the following rhythm. Just type the letters in your keyboard, try to keep the tempo. <br/> 
@@ -24,4 +24,7 @@ D|...|A|.....|D|A|
 ```
 
 **Also you can learn a lot in the web: https://learningmusic.ableton.com/make-beats/make-beats.html**
+
+## Day 2 - CSS + JS Clock
+This it's a minimalist clock built with CSS. Shows the current hour and the second hand working in real time in a realistic way.
 
