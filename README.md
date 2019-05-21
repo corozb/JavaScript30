@@ -28,7 +28,7 @@ D|...|A|.....|D|A|
 ## Day 2 - CSS + JS Clock
 This it's a minimalist clock built with CSS. Shows the current hour and the second hand working in real time in a realistic way.
 
-The final result is:
+The final result is: <br />
 ![](https://i.ibb.co/dL9GR82/CSS-JS-Clock-corozb.png)
 
 
