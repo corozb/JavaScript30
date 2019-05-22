@@ -31,4 +31,14 @@ This it's a minimalist clock built with CSS. Shows the current hour and the seco
 The final result is: <br />
 ![](https://i.ibb.co/dL9GR82/CSS-JS-Clock-corozb.png)
 
+## [Day 3 - CSS Variables manipulation with Javascript](https://github.com/corozb/JavaScript30/tree/master/Day3%20-CSS_Variables%2BJSS)
+This is a kind of interactive web where we can modify and update de CSS variables with JavaScript:
+- Size of padding
+- Blur of image
+- Color of background
+
+And this was the result: <br/>
+![](https://i.ibb.co/sJs2bYq/CSS-Variables-JSS-corozb.png)
+
+
 
