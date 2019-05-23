@@ -57,7 +57,8 @@ We gonna manipulate an array. With the idea to: <br />
     
  ## Day 5 - Flex Panel Galery
 This project it´s about build an interactive gallery where with can change the image and see the message that contain.
-We practice animations and flexbox. This it's another course to learn:
+We practice animations and flexbox. <br/>
+This it's another resources to learn:
 - [Flexbox](https://flexbox.io/)
 - [CSS Grid](https://cssgrid.io/)
 - Also [Markdown](https://masteringmarkdown.com)
