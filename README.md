@@ -54,4 +54,14 @@ We gonna manipulate an array. With the idea to: <br />
     Sort the people alphabetically by last name  <br/>
    **8. Reduce Exercise**  <br/>
     Sum up the instances of each element in an Array
+    
+ ## Day 5 - Flex Panel Galery
+This project it´s about build an interactive gallery where with can change the image and see the message that contain.
+We practice animations and flexbox. This it's another course to learn:
+- [Flexbox](https://flexbox.io/)
+- [CSS Grid](https://cssgrid.io/)
+- Also [Markdown](https://masteringmarkdown.com)
+
+
+
 
