@@ -49,9 +49,9 @@ We gonna manipulate an array. With the idea to: <br />
   **4.  Array.prototype.reduce()** <br/> How many years did all the inventors live? <br/>
    5. Sort the inventors by years lived <br/>
    6. create a list of Boulevards in Paris that contain 'de' anywhere in the name <br/>
-    https://en.wikipedia.org/wiki/Category:Boulevards_in_Paris
-   **7. sort Exercise**
-    Sort the people alphabetically by last name
-   **8. Reduce Exercise**
+    https://en.wikipedia.org/wiki/Category:Boulevards_in_Paris  <br/>
+   **7. sort Exercise**  <br/>
+    Sort the people alphabetically by last name  <br/>
+   **8. Reduce Exercise**  <br/>
     Sum up the instances of each element in an Array
 
