@@ -43,16 +43,15 @@ And this was the result: <br/>
 ## [Day 4 - Array Cardio -Day1]
 We gonna manipulate an array. With the idea to: <br />
 <br />
-    1. Filter the list of inventors for those who were born in the 1500's <br />
-    2. Give us an array of the inventors' first and last names <br />
-    3. Sort the inventors by birthdate, oldest to youngest <br />
-    4. How many years did all the inventors live? <br />
-    5. Sort the inventors by years lived <br />
-    6. create a list of Boulevards in Paris that contain 'de' anywhere in the name 
-    https://en.wikipedia.org/wiki/Category:Boulevards_in_Paris <br />
-    7. sort Exercise <br />
-    Sort the people alphabetically by last name <br />
-   8. Reduce Exercise <br />
-
-
+  **1. Array.prototype.filter()** <br/> Filter the list of inventors for those who were born in the 1500's <br/>
+  **2. Array.prototype.map()** <br/> Give us an array of the inventors' first and last names <br/>
+  **3.  Array.prototype.sort()** <br/> Sort the inventors by birthdate, oldest to youngest <br/>
+  **4.  Array.prototype.reduce()** <br/> How many years did all the inventors live? <br/>
+   5. Sort the inventors by years lived <br/>
+   6. create a list of Boulevards in Paris that contain 'de' anywhere in the name <br/>
+    https://en.wikipedia.org/wiki/Category:Boulevards_in_Paris
+   **7. sort Exercise**
+    Sort the people alphabetically by last name
+   **8. Reduce Exercise**
+    Sum up the instances of each element in an Array
 
