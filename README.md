@@ -44,7 +44,6 @@ And this was the result: <br/>
 We gonna manipulate an array. With the idea to: <br />
 <br />
     1. Filter the list of inventors for those who were born in the 1500's <br />
-    Array.prototype.map() <br />
     2. Give us an array of the inventors' first and last names <br />
     3. Sort the inventors by birthdate, oldest to youngest <br />
     4. How many years did all the inventors live? <br />
