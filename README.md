@@ -40,7 +40,7 @@ This is a kind of interactive web where we can modify and update de CSS variable
 And this was the result: <br/>
 ![](https://i.ibb.co/sJs2bYq/CSS-Variables-JSS-corozb.png)
 
-## [Day 4 - Array Cardio -Day1]
+## [Day 4 - Array Cardio -Day1](https://github.com/corozb/JavaScript30/tree/master/Day4-Array_Cardio_day1)
 We gonna manipulate an array. With the idea to: <br />
 <br />
   **1. Array.prototype.filter()** <br/> Filter the list of inventors for those who were born in the 1500's <br/>
@@ -54,4 +54,23 @@ We gonna manipulate an array. With the idea to: <br />
     Sort the people alphabetically by last name  <br/>
    **8. Reduce Exercise**  <br/>
     Sum up the instances of each element in an Array
+    
+ ## Day 5 - Flex Panel Galery
+This project it´s about build an interactive gallery where with can change the image and see the message that contain.
+We practice animations and flexbox. 
+
+This it's another resources to learn:
+- [Flexbox](https://flexbox.io/)
+- [CSS Grid](https://cssgrid.io/)
+- Also [Markdown](https://masteringmarkdown.com)
+
+We can show the images animations in two ways:
+- Clicking de Image (with functions)
+- Just putting the pointer over (with hover)
+
+This was the result:
+
+![](https://i.ibb.co/P9P1Mwr/Day5-Flex-Panel-Gallery-corozb.png)
+
+
 
