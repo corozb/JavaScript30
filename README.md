@@ -31,4 +31,27 @@ This it's a minimalist clock built with CSS. Shows the current hour and the seco
 The final result is: <br />
 ![](https://i.ibb.co/dL9GR82/CSS-JS-Clock-corozb.png)
 
+## [Day 3 - CSS Variables manipulation with Javascript](https://github.com/corozb/JavaScript30/tree/master/Day3%20-CSS_Variables%2BJSS)
+This is a kind of interactive web where we can modify and update de CSS variables with JavaScript:
+- Size of padding
+- Blur of image
+- Color of background
+
+And this was the result: <br/>
+![](https://i.ibb.co/sJs2bYq/CSS-Variables-JSS-corozb.png)
+
+## [Day 4 - Array Cardio -Day1]
+We gonna manipulate an array. With the idea to: <br />
+<br />
+  **1. Array.prototype.filter()** <br/> Filter the list of inventors for those who were born in the 1500's <br/>
+  **2. Array.prototype.map()** <br/> Give us an array of the inventors' first and last names <br/>
+  **3.  Array.prototype.sort()** <br/> Sort the inventors by birthdate, oldest to youngest <br/>
+  **4.  Array.prototype.reduce()** <br/> How many years did all the inventors live? <br/>
+   5. Sort the inventors by years lived <br/>
+   6. create a list of Boulevards in Paris that contain 'de' anywhere in the name <br/>
+    https://en.wikipedia.org/wiki/Category:Boulevards_in_Paris  <br/>
+   **7. sort Exercise**  <br/>
+    Sort the people alphabetically by last name  <br/>
+   **8. Reduce Exercise**  <br/>
+    Sum up the instances of each element in an Array
 
