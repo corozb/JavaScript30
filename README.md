@@ -64,6 +64,13 @@ This it's another resources to learn:
 - [CSS Grid](https://cssgrid.io/)
 - Also [Markdown](https://masteringmarkdown.com)
 
+We can show the images animations in two ways:
+- Clicking de Image (with functions)
+- Just putting the pointer over (with hover)
+
+This was the result:
+
+![](https://i.ibb.co/P9P1Mwr/Day5-Flex-Panel-Gallery-corozb.png)
 
 
 
