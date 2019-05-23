@@ -55,7 +55,7 @@ We gonna manipulate an array. With the idea to: <br />
    **8. Reduce Exercise**  <br/>
     Sum up the instances of each element in an Array
     
- ## Day 5 - Flex Panel Galery
+ ## [Day 5 - Flex Panel Galery](https://github.com/corozb/JavaScript30/tree/master/Day5-Flex_Panel_Gallery)
 This project it´s about build an interactive gallery where with can change the image and see the message that contain.
 We practice animations and flexbox. 
 
