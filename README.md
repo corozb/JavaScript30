@@ -40,7 +40,7 @@ This is a kind of interactive web where we can modify and update de CSS variable
 And this was the result: <br/>
 ![](https://i.ibb.co/sJs2bYq/CSS-Variables-JSS-corozb.png)
 
-## [Day 4 - Array Cardio -Day1]
+## [Day 4 - Array Cardio -Day1](https://github.com/corozb/JavaScript30/tree/master/Day4-Array_Cardio_day1)
 We gonna manipulate an array. With the idea to: <br />
 <br />
   **1. Array.prototype.filter()** <br/> Filter the list of inventors for those who were born in the 1500's <br/>
