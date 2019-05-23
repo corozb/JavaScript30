@@ -41,7 +41,8 @@ And this was the result: <br/>
 ![](https://i.ibb.co/sJs2bYq/CSS-Variables-JSS-corozb.png)
 
 ## [Day 4 - Array Cardio -Day1]
-We gonna manipulate an array. With the idea to:
+We gonna manipulate an array. With the idea to: <br />
+<br />
     1. Filter the list of inventors for those who were born in the 1500's <br />
     Array.prototype.map() <br />
     2. Give us an array of the inventors' first and last names <br />
