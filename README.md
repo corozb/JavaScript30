@@ -77,4 +77,7 @@ It's about build a search list of cities and States with the population.
 
 Whatever I type show me the cities and states that matches with the correponding population. The data comes from a external source, a [JSON File](https://gist.githubusercontent.com/Miserlou/c5cd8364bf9b2420bb29/raw/2bf258763cdddd704f8ffd3ea9a3e81d25e2c6f6/cities.json)
 
+This was the result
+
+![](https://i.ibb.co/wcGBvVX/Day6-Ajax-Type-Ahead-corozb.png)
 
