@@ -55,7 +55,7 @@ We gonna manipulate an array. With the idea to: <br />
    **8. Reduce Exercise**  <br/>
     Sum up the instances of each element in an Array
     
- ## Day 5 - Flex Panel Galery
+ ## [Day 5 - Flex Panel Galery](https://github.com/corozb/JavaScript30/tree/master/Day5-Flex_Panel_Gallery)
 This project it´s about build an interactive gallery where with can change the image and see the message that contain.
 We practice animations and flexbox. 
 
@@ -72,5 +72,12 @@ This was the result:
 
 ![](https://i.ibb.co/P9P1Mwr/Day5-Flex-Panel-Gallery-corozb.png)
 
+## Day 6 - Ajax Type Ahead
+It's about build a search list of cities and States with the population.
 
+Whatever I type show me the cities and states that matches with the correponding population. The data comes from a external source, a [JSON File](https://gist.githubusercontent.com/Miserlou/c5cd8364bf9b2420bb29/raw/2bf258763cdddd704f8ffd3ea9a3e81d25e2c6f6/cities.json)
+
+This was the result
+
+![](https://i.ibb.co/wcGBvVX/Day6-Ajax-Type-Ahead-corozb.png)
 
