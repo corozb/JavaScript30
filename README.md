@@ -81,3 +81,15 @@ This was the result
 
 ![](https://i.ibb.co/wcGBvVX/Day6-Ajax-Type-Ahead-corozb.png)
 
+## [Day 7 - Array Cardio -Day2]
+In this chances with gonna do the next exercises:
+
+Some and Every Checks
+- **    Array.prototype.some()** is at least one person 19 or older?
+- **    Array.prototype.every()** is everyone 19 or older?
+- **    Array.prototype.find()**
+    Find is like filter, but instead returns just the one you are looking for
+    find the comment with the ID of 823423
+- **    Array.prototype.findIndex() **
+    Find the comment with this ID
+    delete the comment with the ID of 823423
