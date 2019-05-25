@@ -72,7 +72,7 @@ This was the result:
 
 ![](https://i.ibb.co/P9P1Mwr/Day5-Flex-Panel-Gallery-corozb.png)
 
-## Day 6 - Ajax Type Ahead
+## [Day 6 - Ajax Type Ahead](https://github.com/corozb/JavaScript30/tree/master/Day6-Ajax_Type_Ahead)
 It's about build a search list of cities and States with the population.
 
 Whatever I type show me the cities and states that matches with the correponding population. The data comes from a external source, a [JSON File](https://gist.githubusercontent.com/Miserlou/c5cd8364bf9b2420bb29/raw/2bf258763cdddd704f8ffd3ea9a3e81d25e2c6f6/cities.json)
@@ -81,3 +81,14 @@ This was the result
 
 ![](https://i.ibb.co/wcGBvVX/Day6-Ajax-Type-Ahead-corozb.png)
 
+## [Day 7 - Array Cardio -Day2]
+In this chances with gonna do the next exercises:
+
+Some and Every Checks
+- **Array.prototype.some()** is at least one person 19 or older?
+- **Array.prototype.every()** is everyone 19 or older?
+- **Array.prototype.find()** Find is like filter, but instead returns just the one you are looking for <br/>
+    ° find the comment with the ID of 823423 <br/>
+- **Array.prototype.findIndex()** <br/>
+    ° Find the comment with this ID <br/>
+    ° delete the comment with the ID of 823423 
