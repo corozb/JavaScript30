@@ -81,7 +81,7 @@ This was the result
 
 ![](https://i.ibb.co/wcGBvVX/Day6-Ajax-Type-Ahead-corozb.png)
 
-## [Day 7 - Array Cardio -Day2]
+## [Day 7 - Array Cardio -Day2](https://github.com/corozb/JavaScript30/tree/master/Day7-Array_Cardio_day2)
 In this chances with gonna do the next exercises:
 
 Some and Every Checks
