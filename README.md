@@ -90,6 +90,6 @@ Some and Every Checks
 - **Array.prototype.find()** <br/>
     ° Find is like filter, but instead returns just the one you are looking for <br/>
     ° find the comment with the ID of 823423 <br/>
-- **Array.prototype.findIndex() ** <br/>
+- **Array.prototype.findIndex()** <br/>
     ° Find the comment with this ID <br/>
     ° delete the comment with the ID of 823423 
