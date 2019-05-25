@@ -87,9 +87,9 @@ In this chances with gonna do the next exercises:
 Some and Every Checks
 - **Array.prototype.some()** is at least one person 19 or older?
 - **Array.prototype.every()** is everyone 19 or older?
-- **Array.prototype.find()**
-    ° Find is like filter, but instead returns just the one you are looking for
-    ° find the comment with the ID of 823423
-- **Array.prototype.findIndex() **
-    ° Find the comment with this ID
-    ° delete the comment with the ID of 823423
+- **Array.prototype.find()** <br/>
+    ° Find is like filter, but instead returns just the one you are looking for <br/>
+    ° find the comment with the ID of 823423 <br/>
+- **Array.prototype.findIndex() ** <br/>
+    ° Find the comment with this ID <br/>
+    ° delete the comment with the ID of 823423 
