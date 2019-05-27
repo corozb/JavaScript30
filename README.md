@@ -107,7 +107,7 @@ In HTML just define the area of the canvas:
     }
  </style>
 ```
-Use ![mothereffinghsl](https://mothereffinghsl.com/) with the finality to add a nice appear like a rainbow.
+Use [mothereffinghsl](https://mothereffinghsl.com/) with the finality to add a nice appear like a rainbow.
 
 And this it:
 
