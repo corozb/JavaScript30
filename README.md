@@ -107,3 +107,9 @@ In HTML just define the area of the canvas:
     }
  </style>
 ```
+Use https://mothereffinghsl.com/ with the finality to add a nice appear like a rainbow.
+
+And this it:
+
+![](https://i.ibb.co/NCZjS35/Paintin-in-Canvas-corozb.png)
+
