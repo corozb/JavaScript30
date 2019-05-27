@@ -92,3 +92,16 @@ Some and Every Checks
 - **Array.prototype.findIndex()** <br/>
     ° Find the comment with this ID <br/>
     ° delete the comment with the ID of 823423 
+    
+## [Day 8 - Fun with HTML5 Canvas]
+This project consist in a whiteboard where with can play painting o drawing whatever we want. For this we learned how the se Canvas and learn how its fundamentals works.
+
+In HTML just define the area of the canvas:
+
+'''
+<canvas id="draw" width="800" height="800"></canvas>
+  <style>
+    html, body {
+      margin: 0
+    }
+'''
