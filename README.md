@@ -98,10 +98,12 @@ This project consist in a whiteboard where with can play painting o drawing what
 
 In HTML just define the area of the canvas:
 
-'''
+```
 <canvas id="draw" width="800" height="800"></canvas>
-  <style>
+  
+<style>
     html, body {
       margin: 0
     }
-'''
+ </style>
+```
