@@ -118,7 +118,7 @@ I learned how modify dom style with JavaScript. Changing the attributes like col
 
 Also how to use:
 ```
--console.clear()
+- console.clear()
 - console.log()
 - console.warn()
 - console.error()
