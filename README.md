@@ -117,6 +117,7 @@ And this it:
 I learned how modify dom style with JavaScript. Changing the attributes like color, fontsize.
 
 Also how to use:
+```
 -console.clear()
 - console.log()
 - console.warn()
@@ -128,5 +129,6 @@ Also how to use:
 - console.count()
 - console.time()
 - console.table()
+```
 
   ![](https://i.ibb.co/BG5HH8P/dev-Toolscorozb.png)
