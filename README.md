@@ -113,3 +113,20 @@ And this it:
 
 ![](https://i.ibb.co/NCZjS35/Paintin-in-Canvas-corozb.png)
 
+## [Day 9 - Dev Tools Domination]
+I learned how modify dom style with JavaScript. Changing the attributes like color, fontsize.
+
+Also how to use:
+-console.clear()
+- console.log()
+- console.warn()
+- console.error()
+- console.info()
+- console.assert()
+- console.dir()
+- console.group()
+- console.count()
+- console.time()
+- console.table()
+
+  ![](https://i.ibb.co/BG5HH8P/dev-Toolscorozb.png)
