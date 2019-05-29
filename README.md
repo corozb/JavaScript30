@@ -5,7 +5,7 @@ In this repository I built **30 things** in **30 days** with **30 tutorials**. T
 
 This was thanks to tthe web https://wesbos.com/. Go ahead and build your owm projects too.
 
-## [Day 1 - Javascript Drum Kit](https://github.com/corozb/JavaScript30/tree/master/Day1-drum-kit)
+## [Day 1 - Javascript Drum Kit](https://github.com/corozb/JavaScript30/tree/master/Day01-drum-kit)
 This project it's about a keyboard drum, just type a key and the web reproduce a sound associated. 
 To identify each KeyCode we can use http://keycode.info/ and shows:
 - event.key
@@ -25,13 +25,13 @@ D|...|A|.....|D|A|
 
 **Also you can learn a lot in the web: https://learningmusic.ableton.com/make-beats/make-beats.html**
 
-## [Day 2 - CSS + JS Clock](https://github.com/corozb/JavaScript30/tree/master/Day2-CSS%2BJS-Clock)
+## [Day 2 - CSS + JS Clock](https://github.com/corozb/JavaScript30/tree/master/Day02-CSS%2BJS-Clock)
 This it's a minimalist clock built with CSS. Shows the current hour and the second hand working in real time in a realistic way.
 
 The final result is: <br />
 ![](https://i.ibb.co/dL9GR82/CSS-JS-Clock-corozb.png)
 
-## [Day 3 - CSS Variables manipulation with Javascript](https://github.com/corozb/JavaScript30/tree/master/Day3%20-CSS_Variables%2BJSS)
+## [Day 3 - CSS Variables manipulation with Javascript](https://github.com/corozb/JavaScript30/tree/master/Day03%20-CSS_Variables%2BJSS)
 This is a kind of interactive web where we can modify and update de CSS variables with JavaScript:
 - Size of padding
 - Blur of image
@@ -40,7 +40,7 @@ This is a kind of interactive web where we can modify and update de CSS variable
 And this was the result: <br/>
 ![](https://i.ibb.co/sJs2bYq/CSS-Variables-JSS-corozb.png)
 
-## [Day 4 - Array Cardio -Day1](https://github.com/corozb/JavaScript30/tree/master/Day4-Array_Cardio_day1)
+## [Day 4 - Array Cardio -Day1](https://github.com/corozb/JavaScript30/tree/master/Day04-Array_Cardio_day1)
 We gonna manipulate an array. With the idea to: <br />
 <br />
   **1. Array.prototype.filter()** <br/> Filter the list of inventors for those who were born in the 1500's <br/>
@@ -55,7 +55,7 @@ We gonna manipulate an array. With the idea to: <br />
    **8. Reduce Exercise**  <br/>
     Sum up the instances of each element in an Array
     
- ## [Day 5 - Flex Panel Galery](https://github.com/corozb/JavaScript30/tree/master/Day5-Flex_Panel_Gallery)
+ ## [Day 5 - Flex Panel Galery](https://github.com/corozb/JavaScript30/tree/master/Day05-Flex_Panel_Gallery)
 This project it´s about build an interactive gallery where with can change the image and see the message that contain.
 We practice animations and flexbox. 
 
@@ -72,7 +72,7 @@ This was the result:
 
 ![](https://i.ibb.co/P9P1Mwr/Day5-Flex-Panel-Gallery-corozb.png)
 
-## [Day 6 - Ajax Type Ahead](https://github.com/corozb/JavaScript30/tree/master/Day6-Ajax_Type_Ahead)
+## [Day 6 - Ajax Type Ahead](https://github.com/corozb/JavaScript30/tree/master/Day06-Ajax_Type_Ahead)
 It's about build a search list of cities and States with the population.
 
 Whatever I type show me the cities and states that matches with the correponding population. The data comes from a external source, a [JSON File](https://gist.githubusercontent.com/Miserlou/c5cd8364bf9b2420bb29/raw/2bf258763cdddd704f8ffd3ea9a3e81d25e2c6f6/cities.json)
@@ -81,7 +81,7 @@ This was the result
 
 ![](https://i.ibb.co/wcGBvVX/Day6-Ajax-Type-Ahead-corozb.png)
 
-## [Day 7 - Array Cardio -Day2](https://github.com/corozb/JavaScript30/tree/master/Day7-Array_Cardio_day2)
+## [Day 7 - Array Cardio -Day2](https://github.com/corozb/JavaScript30/tree/master/Day07-Array_Cardio_day2)
 In this chances with gonna do the next exercises:
 
 Some and Every Checks
@@ -93,7 +93,7 @@ Some and Every Checks
     ° Find the comment with this ID <br/>
     ° delete the comment with the ID of 823423 
     
-## [Day 8 - Fun with HTML5 Canvas](https://github.com/corozb/JavaScript30/tree/master/Day8-Fun_with_HTML5_Canvas)
+## [Day 8 - Fun with HTML5 Canvas](https://github.com/corozb/JavaScript30/tree/master/Day08-Fun_with_HTML5_Canvas)
 This project consist in a whiteboard where with can play painting o drawing whatever we want. For this we learned how the se Canvas and learn how its fundamentals works.
 
 In HTML just define the area of the canvas:
@@ -113,7 +113,7 @@ And this it:
 
 ![](https://i.ibb.co/NCZjS35/Paintin-in-Canvas-corozb.png)
 
-## [Day 9 - Dev Tools Domination](https://github.com/corozb/JavaScript30/tree/master/Day9-Dev_Tools_domination)
+## [Day 9 - Dev Tools Domination](https://github.com/corozb/JavaScript30/tree/master/Day09-Dev_Tools_domination)
 I learned how modify dom style with JavaScript. Changing the attributes like color, fontsize.
 
 Also how to use:
@@ -133,9 +133,17 @@ Also how to use:
 
   ![](https://i.ibb.co/BG5HH8P/dev-Toolscorozb.png)
   
-  ## [Day 10 - Hold Shift and Check Checkboxes]()
+  ## [Day 10 - Hold Shift and Check Checkboxes](https://github.com/corozb/JavaScript30/tree/master/Day10-Hold%20Shift%20and%20Check%20Checkboxes)
   The following is a common layout you would see in an email client.
   When a user clicks a checkbox, holds Shift, and then clicks another checkbox a few rows down, all the checkboxes inbetween those two     checkboxes should be checked.
   
   This is the result:
+  
   ![](https://i.ibb.co/6Y4J459/checkbox-corozb.png)
+  
+  ## Day 11 - Custom HTML5 Video Player 
+  HTML5 Video Player has a style predefined using JavaScript we change the default style.
+  
+  We built our own interface changing the buttons for: play/pause, speed, skipback button and progress bar. Also I added the fullscreen button to see in cinema way.
+  
+  ![](https://i.ibb.co/gZnHPq8/video-player-corozb.png)
