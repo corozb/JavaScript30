@@ -93,7 +93,7 @@ Some and Every Checks
     ° Find the comment with this ID <br/>
     ° delete the comment with the ID of 823423 
     
-## [Day 8 - Fun with HTML5 Canvas]
+## [Day 8 - Fun with HTML5 Canvas](https://github.com/corozb/JavaScript30/tree/master/Day8-Fun_with_HTML5_Canvas)
 This project consist in a whiteboard where with can play painting o drawing whatever we want. For this we learned how the se Canvas and learn how its fundamentals works.
 
 In HTML just define the area of the canvas:
@@ -107,9 +107,28 @@ In HTML just define the area of the canvas:
     }
  </style>
 ```
-Use https://mothereffinghsl.com/ with the finality to add a nice appear like a rainbow.
+Use [mothereffinghsl](https://mothereffinghsl.com/) with the finality to add a nice appear like a rainbow.
 
 And this it:
 
 ![](https://i.ibb.co/NCZjS35/Paintin-in-Canvas-corozb.png)
 
+## [Day 9 - Dev Tools Domination]
+I learned how modify dom style with JavaScript. Changing the attributes like color, fontsize.
+
+Also how to use:
+```
+- console.clear()
+- console.log()
+- console.warn()
+- console.error()
+- console.info()
+- console.assert()
+- console.dir()
+- console.group()
+- console.count()
+- console.time()
+- console.table()
+```
+
+  ![](https://i.ibb.co/BG5HH8P/dev-Toolscorozb.png)
