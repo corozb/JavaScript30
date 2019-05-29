@@ -140,3 +140,8 @@ Also how to use:
   This is the result:
   
   ![](https://i.ibb.co/6Y4J459/checkbox-corozb.png)
+  
+  ## Day 11 - Custom HTML5 Video Player 
+  HTML5 Video Player has a style predefined using JavaScript we change the default style.
+  
+  We built our own interface changing the buttons for: play/pause, speed, skipback button and progress bar.
