@@ -141,7 +141,7 @@ Also how to use:
   
   ![](https://i.ibb.co/6Y4J459/checkbox-corozb.png)
   
-  ## Day 11 - Custom HTML5 Video Player 
+  ## [Day 11 - Custom HTML5 Video Player](https://github.com/corozb/JavaScript30/tree/master/Day11-Custom%20HTML5%20Video%20Player) 
   HTML5 Video Player has a style predefined using JavaScript we change the default style.
   
   We built our own interface changing the buttons for: play/pause, speed, skipback button and progress bar. Also I added the fullscreen button to see in cinema way.
