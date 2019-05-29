@@ -132,3 +132,10 @@ Also how to use:
 ```
 
   ![](https://i.ibb.co/BG5HH8P/dev-Toolscorozb.png)
+  
+  ## [Day 10 - Hold Shift and Check Checkboxes]()
+  The following is a common layout you would see in an email client.
+  When a user clicks a checkbox, holds Shift, and then clicks another checkbox a few rows down, all the checkboxes inbetween those two     checkboxes should be checked.
+  
+  This is the result:
+  ![](https://i.ibb.co/6Y4J459/checkbox-corozb.png)
