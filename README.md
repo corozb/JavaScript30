@@ -5,7 +5,7 @@ In this repository I built **30 things** in **30 days** with **30 tutorials**. T
 
 This was thanks to tthe web https://wesbos.com/. Go ahead and build your owm projects too.
 
-## [Day 1 - Javascript Drum Kit](https://github.com/corozb/JavaScript30/tree/master/Day1-drum-kit)
+## [Day 1 - Javascript Drum Kit](https://github.com/corozb/JavaScript30/tree/master/Day01-drum-kit)
 This project it's about a keyboard drum, just type a key and the web reproduce a sound associated. 
 To identify each KeyCode we can use http://keycode.info/ and shows:
 - event.key
@@ -25,13 +25,13 @@ D|...|A|.....|D|A|
 
 **Also you can learn a lot in the web: https://learningmusic.ableton.com/make-beats/make-beats.html**
 
-## [Day 2 - CSS + JS Clock](https://github.com/corozb/JavaScript30/tree/master/Day2-CSS%2BJS-Clock)
+## [Day 2 - CSS + JS Clock](https://github.com/corozb/JavaScript30/tree/master/Day02-CSS%2BJS-Clock)
 This it's a minimalist clock built with CSS. Shows the current hour and the second hand working in real time in a realistic way.
 
 The final result is: <br />
 ![](https://i.ibb.co/dL9GR82/CSS-JS-Clock-corozb.png)
 
-## [Day 3 - CSS Variables manipulation with Javascript](https://github.com/corozb/JavaScript30/tree/master/Day3%20-CSS_Variables%2BJSS)
+## [Day 3 - CSS Variables manipulation with Javascript](https://github.com/corozb/JavaScript30/tree/master/Day03%20-CSS_Variables%2BJSS)
 This is a kind of interactive web where we can modify and update de CSS variables with JavaScript:
 - Size of padding
 - Blur of image
@@ -138,4 +138,5 @@ Also how to use:
   When a user clicks a checkbox, holds Shift, and then clicks another checkbox a few rows down, all the checkboxes inbetween those two     checkboxes should be checked.
   
   This is the result:
+  
   ![](https://i.ibb.co/6Y4J459/checkbox-corozb.png)
