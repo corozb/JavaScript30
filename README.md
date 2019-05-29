@@ -113,7 +113,7 @@ And this it:
 
 ![](https://i.ibb.co/NCZjS35/Paintin-in-Canvas-corozb.png)
 
-## [Day 9 - Dev Tools Domination]
+## [Day 9 - Dev Tools Domination](https://github.com/corozb/JavaScript30/tree/master/Day9-Dev_Tools_domination)
 I learned how modify dom style with JavaScript. Changing the attributes like color, fontsize.
 
 Also how to use:
