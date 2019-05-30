@@ -152,6 +152,7 @@ Also how to use:
   This project consist in type some keys into your window o into an inputter and something happen, like change the appeareance the web.
   
   What this is used most for online is the Konami Code, its named like that because that consisted in a secret code to have unlimited life in Mario Bros game. 
+  
   `Konami code (up, up, down, down, left, right, left, right, b, a)`
   
   ![](http://media.giphy.com/media/4hnQDVKVARZ6w/giphy.gif)
