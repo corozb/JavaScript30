@@ -148,7 +148,7 @@ Also how to use:
   
   ![](https://i.ibb.co/gZnHPq8/video-player-corozb.png)
   
-  ## [Day 12 - Key Sequence Detection]
+  ## [Day 12 - Key Sequence Detection](https://github.com/corozb/JavaScript30/tree/master/Day12-Key%20Sequence%20Detection)
   This project consist in type some keys into your window o into an inputter and something happen, like change the appeareance the web.
   
   What this is used most for online is the Konami Code, its named like that because that consisted in a secret code to have unlimited life in Mario Bros game. 
