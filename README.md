@@ -147,3 +147,17 @@ Also how to use:
   We built our own interface changing the buttons for: play/pause, speed, skipback button and progress bar. Also I added the fullscreen button to see in cinema way.
   
   ![](https://i.ibb.co/gZnHPq8/video-player-corozb.png)
+  
+  ## [Day 12 - Key Sequence Detection]
+  This project consist in type some keys into your window o into an inputter and something happen, like change the appeareance the web.
+  
+  What this is used most for online is the Konami Code, its named like that because that consisted in a secret code to have unlimited life in Mario Bros game. 
+  `Konami code (up, up, down, down, left, right, left, right, b, a)`
+  
+  ![](http://media.giphy.com/media/4hnQDVKVARZ6w/giphy.gif)
+  
+  So if we used in a web that will pretty funny. Differents web sites have [Easter Eggs](https://github.com/mikeflynn/egg.js) that you can surface.
+  
+ We used [cornify.js](https://www.cornify.com/) to add unicorn and rainbows to the web
+ 
+ ![](https://i.ibb.co/5YBHtBw/key-detection-corozb.png)
