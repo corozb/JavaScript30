@@ -162,3 +162,6 @@ Also how to use:
  We used [cornify.js](https://www.cornify.com/) to add unicorn and rainbows to the web
  
  ![](https://i.ibb.co/5YBHtBw/key-detection-corozb.png)
+ 
+ ## [Day 13 - Slide in on Scroll]
+ In this occasion the exercise consist in a text with images that will be animated while the scroll down. This possible with windows eventes
