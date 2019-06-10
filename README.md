@@ -167,3 +167,4 @@ Also how to use:
  In this occasion the exercise consist in a text with images that will be animated while the scroll down. This possible with window events and debouncing that add a timeout our functions.
  
  ![](https://i.ibb.co/tszgLbc/slider-in-on-scroll-corozb.png)
+ 
