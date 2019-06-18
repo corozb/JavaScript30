@@ -168,3 +168,6 @@ Also how to use:
  
  ![](https://i.ibb.co/tszgLbc/slider-in-on-scroll-corozb.png)
  
+ ## [Day 14 - JS Reference VS Copy]()
+ In this chance we have the opportunity to learn how work with Arrays and make copies without modify the original Array or Object.
+ 
