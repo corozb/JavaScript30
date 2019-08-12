@@ -176,4 +176,4 @@ In this class with work with LocalStorage: There's a list with different item an
 
 The Event Delegation it's when with click on the item and automatically check it to do something into the web without loss the other items and identifying its index.
 
-![](https://ibb.co/JsHrkXq)
+![](https://i.ibb.co/2kdcKXS/local-Storage-Cristian-Orozco.png)
