@@ -171,7 +171,7 @@ Also how to use:
  ## [Day 14 - JS Reference VS Copy](https://github.com/corozb/JavaScript30/tree/master/Day14-Reference%20VS%20Copy)
  In this chance we have the opportunity to learn how work with Arrays and make copies without modify the original Array or Object.
  
- ## [Day 15 - LocalStorage and Event Delegation]()
+ ## [Day 15 - LocalStorage and Event Delegation](https://github.com/corozb/JavaScript30/tree/master/Day15-localStorage-Event_Delegation)
 In this class with work with LocalStorage: There's a list with different item and We added a new item into it, if we refresh the page it's still there similarly if we click on one and check it. So that's going to be persistent our state.
 
 The Event Delegation it's when with click on the item and automatically check it to do something into the web without loss the other items and identifying its index.
