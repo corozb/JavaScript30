@@ -175,3 +175,5 @@ Also how to use:
 In this class with work with LocalStorage: There's a list with different item and We added a new item into it, if we refresh the page it's still there similarly if we click on one and check it. So that's going to be persistent our state.
 
 The Event Delegation it's when with click on the item and automatically check it to do something into the web without loss the other items and identifying its index.
+
+![](https://ibb.co/JsHrkXq)
