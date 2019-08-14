@@ -178,7 +178,7 @@ The Event Delegation it's when with click on the item and automatically check it
 
 ![](https://i.ibb.co/2kdcKXS/local-Storage-Cristian-Orozco.png)
 
- ## [Day 16 - Text Shadow Mouse Effect]()
+ ## [Day 16 - Text Shadow Mouse Effect](https://github.com/corozb/JavaScript30/tree/master/Day16-Mouse%20Move%20Shadow)
  We built a shadow effect following the mouse cursor movement or if you use with your phone tapped the accelerometer. This works creating a dinamic text-shadow style.
  
  ![](https://i.ibb.co/JsCGfmc/move-shadow-cristian-orozco.png)
