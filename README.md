@@ -177,3 +177,9 @@ In this class with work with LocalStorage: There's a list with different item an
 The Event Delegation it's when with click on the item and automatically check it to do something into the web without loss the other items and identifying its index.
 
 ![](https://i.ibb.co/2kdcKXS/local-Storage-Cristian-Orozco.png)
+
+ ## [Day 16 - Text Shadow Mouse Effect]()
+ We built a shadow effect following the mouse cursor movement or if you use with your phone tapped the accelerometer. This works creating a dinamic text-shadow style.
+ 
+ ![](https://i.ibb.co/JsCGfmc/move-shadow-cristian-orozco.png)
+ 
